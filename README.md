@@ -36,11 +36,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keval-design&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keval-design&theme=dark" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keval-design&layout=compact&theme=dark" width="48%" />
 </p>
 
 ---
