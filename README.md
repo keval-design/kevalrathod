@@ -1,4 +1,4 @@
-# kevalrathod
+# Keval Rathod
 <h1 align="center">Hey 👋 I'm Keval Rathod</h1>
 
 <h3 align="center">💻 QA Engineer | SDET | Automation Enthusiast</h3>
