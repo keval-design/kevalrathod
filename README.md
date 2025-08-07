@@ -48,13 +48,12 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/keval-rathod-0a3518306/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-  <a href="https://discord.gg/yourserver" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="discord" height="30" width="30" /></a>
+  <a href="https://x.com/kevalrathodd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
+  <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="discord" height="30" width="30" /></a>
   <a href="https://www.youtube.com/@yourchannel" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="30" width="30" /></a>
 </p>
 
----
-![Snake animation](https://github.com/keval-desing/keval-design/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### 🐍 GitHub Contribution Snake
